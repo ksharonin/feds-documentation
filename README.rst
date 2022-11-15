@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+NASA EIS-FEDS Documentation (CURRENTLY IN TESTING - NOT FINAL)
 =======================================
 
 This GitHub template includes fictional Python library
