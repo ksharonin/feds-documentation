@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # try: update master doc update
-master_doc = 'index'
+# master_doc = 'index'
 
 # -- Project information
 
