@@ -1,0 +1,2 @@
+# Test numpy module installation via config
+numpy
