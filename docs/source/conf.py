@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'EIS-FEDS'
+copyright = '2021, NASA'
+author = 'Katrina Sharonin'
 
 release = '0.1'
 version = '0.1.0'
@@ -27,7 +27,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
+# -- Options for HTML output -- customize later
 
 html_theme = 'sphinx_rtd_theme'
 
