@@ -6,4 +6,4 @@ https://feds-documentation.readthedocs.io/en/latest/
 
 The feds-documentation repository acts as a guide to community users for the NASA MAAP FEDS project. Under active construction.
 
-For package installation, see 'docs/requirements.txt'
+To contribute to documentation, submit a merge request with changes. If build permission exists, check build status after push to check for failure. For package installations, see 'docs/requirements.txt'
