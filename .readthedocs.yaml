@@ -26,5 +26,9 @@ sphinx:
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
+   - method: pip
    - requirements: docs/requirements.txt
    
+# trigger warnings to be more visible
+sphinx:
+  fail_on_warning: true
