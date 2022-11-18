@@ -4,11 +4,4 @@ NASA EIS-FEDS Documentation (CURRENTLY IN TESTING - NOT FINAL)
 Current passing website:
 https://feds-documentation.readthedocs.io/en/latest/ 
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
-
-Lumache has its documentation hosted on Read the Docs.
+The feds-documentation repository acts as a guide to community users for the NASA MAAP FEDS project. Under active construction.
