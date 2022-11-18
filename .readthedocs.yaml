@@ -31,5 +31,5 @@ python:
    - requirements: docs/requirements.txt
    
 # trigger warnings to be more visible
-sphinx:
-  fail_on_warning: true
+# sphinx:
+  # fail_on_warning: true
