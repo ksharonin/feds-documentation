@@ -1,2 +1,5 @@
 # try basic package
 numpy
+nbsphinx
+ipython
+ipykernel
