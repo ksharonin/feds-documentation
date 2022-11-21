@@ -17,3 +17,4 @@ Contents
 
    usage
    api
+   example-feds-output-tutorial.ipynb
