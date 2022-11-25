@@ -18,3 +18,5 @@ Contents
    usage
    api
    example-feds-output-tutorial.ipynb
+   read-zarr-s3.ipynb
+   test-storage-output.ipynb
