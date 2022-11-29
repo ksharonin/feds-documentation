@@ -20,3 +20,4 @@ Contents
    example-feds-output-tutorial.ipynb
    read-zarr-s3.ipynb
    test-storage-output.ipynb
+   fwi_vis_utils.ipynb
